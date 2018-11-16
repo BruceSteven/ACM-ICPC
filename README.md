@@ -86,7 +86,7 @@ Here are the topics we included in this curriculum.
     - Closest pair problem
     - Line intersection
 
-  - Sorting
+  - [Sorting](https://nguyenvanhieu.vn/tag/thuat-toan-sap-xep/)
     - QuickSort
     - Counting Sort
     - Merge Sort
@@ -153,20 +153,20 @@ Here are the topics we included in this curriculum.
 |[**7.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week07)|<ul><li>Knapsack</li><li>Coin Change</li><li>Kadane</li></ul>||
 |[**8.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week08)|**Questions from previous topics**||
 |[**9.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week09)|<ul><li>Trees (DS)</li><li>Segment Trees (DS)</li><li>Range Minimum Query (RMQ)</li><li>Lowest Common Ancestor (LCA)</li></ul>|<ul><li>Topological Sorting</li></ul>|
-|[**10.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week10)|<ul><li>Ford Bellman</li><li>Max Flow / Min Cut</li><li>Longest increasing Subsequence (with RMQ)</li></ul>|<ul><li>Heavy Light Decomposition</li></ul>|
-|[**11.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week11)|<ul><li>Primitive Operations<ul><li>Intuition</li><li>Polygon Inside, Outside</li><li>Implementing CCW</li><li>Immutable Point ADT</li></ul></li><li>Convex Hull</li><li>Closest pair problem</li><li>Line intersection</li></ul>||
-|[**12.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week12)|<ul><li>Tries (DS)</li><li>Suffix Trees/Arrays (DS)</li><li>Knuth-Morris-Pratt Algorithm (KMP)</li><li>Rabin-Karp Algorithm</li></ul>||
-|[**13.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week13)|<ul><li>Heaps (DS)</li><li>Priority queue (DS)</li><li>Combinatorics</li></ul>||
-|[**14.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week14)|<ul><li>Z algorithm</li><li>Hash</li><li>Disjoint Data Structure (DS)</li></ul>||
-|[**15.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week15)|<ul><li>Matrix chain multiplication</li><li>SQRT Decomposition (DS)</li></ul>|<ul><li>Mo's Algorithm</li><li>Rod Cutting</li></ul>|
-|[**16.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week16)|**Questions from previous topics**||
-|[**17.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week17)|<ul><li>Nim game</li><li>Grundy numbers</li></ul>||
-|[**18.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week18)|<ul><li>Sprague-Grundy theorem</li><li>Fenwick tree or Binary indexed trees (DS)</li></ul>||
-|[**19.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week19)|<ul><li>Bit Manipulation</li></ul>|<ul><li>Palindromic Tree</li><li>AVL Trees</li></ul>|
-|[**20.Week**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week20)|<ul><li>Heavy Light Decomposition</li><li>Dynamic Programming by Profile</li></ul>|<ul><li>Graph Coloring</li></ul>|
+|[**Week 10**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week10)|<ul><li>Ford Bellman</li><li>Max Flow / Min Cut</li><li>Longest increasing Subsequence (with RMQ)</li></ul>|<ul><li>Heavy Light Decomposition</li></ul>|
+|[**Week 11**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week11)|<ul><li>Primitive Operations<ul><li>Intuition</li><li>Polygon Inside, Outside</li><li>Implementing CCW</li><li>Immutable Point ADT</li></ul></li><li>Convex Hull</li><li>Closest pair problem</li><li>Line intersection</li></ul>||
+|[**Week 12**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week12)|<ul><li>Tries (DS)</li><li>Suffix Trees/Arrays (DS)</li><li>Knuth-Morris-Pratt Algorithm (KMP)</li><li>Rabin-Karp Algorithm</li></ul>||
+|[**Week 13**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week13)|<ul><li>Heaps (DS)</li><li>Priority queue (DS)</li><li>Combinatorics</li></ul>||
+|[**Week 14**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week14)|<ul><li>Z algorithm</li><li>Hash</li><li>Disjoint Data Structure (DS)</li></ul>||
+|[**Week 15**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week15)|<ul><li>Matrix chain multiplication</li><li>SQRT Decomposition (DS)</li></ul>|<ul><li>Mo's Algorithm</li><li>Rod Cutting</li></ul>|
+|[**Week 16**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week16)|**Questions from previous topics**||
+|[**Week 17**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week17)|<ul><li>Nim game</li><li>Grundy numbers</li></ul>||
+|[**Week 18**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week18)|<ul><li>Sprague-Grundy theorem</li><li>Fenwick tree or Binary indexed trees (DS)</li></ul>||
+|[**Week 19**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week19)|<ul><li>Bit Manipulation</li></ul>|<ul><li>Palindromic Tree</li><li>AVL Trees</li></ul>|
+|[**Week 20**](https://github.com/hieunv1996/ACM-ICPC-Preparation/tree/master/Week20)|<ul><li>Heavy Light Decomposition</li><li>Dynamic Programming by Profile</li></ul>|<ul><li>Graph Coloring</li></ul>|
 
 
 ### [Contributers](https://github.com/hieunv1996/ACM-ICPC-Preparation/graphs/contributors)
 
-###### A [hieunv1996](https://nauacmrocks.azurewebsites.net) Project
+###### A [ACM-ICPC Prepare](https://nguyenvanhieu.vn) Project
 
