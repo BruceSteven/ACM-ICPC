@@ -168,4 +168,5 @@ Here are the topics we included in this curriculum.
 
 ### [Contributers](https://github.com/hieunv1996/ACM-ICPC-Preparation/graphs/contributors)
 
-###### A [NAU-ACM](https://nauacmrocks.azurewebsites.net/) Project
+###### An introduction about [ACM-ICPC](https://nguyenvanhieu.vn/on-thi-olympic-tin-hoc-acm-icpc/) tutorial on my blog
+###### Source: https://github.com/NAU-ACM/ACM-ICPC-Preparation
