@@ -86,7 +86,7 @@ Here are the topics we included in this curriculum.
     - Closest pair problem
     - Line intersection
 
-  - [Sorting](https://nguyenvanhieu.vn/tag/thuat-toan-sap-xep/)
+  - Sorting
     - QuickSort
     - Counting Sort
     - Merge Sort
@@ -168,5 +168,4 @@ Here are the topics we included in this curriculum.
 
 ### [Contributers](https://github.com/hieunv1996/ACM-ICPC-Preparation/graphs/contributors)
 
-###### An [ACM-ICPC Prepare](https://nguyenvanhieu.vn) tutorial
-
+###### A [NAU-ACM](https://nauacmrocks.azurewebsites.net/) Project
